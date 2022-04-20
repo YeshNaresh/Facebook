@@ -1,1 +1,1 @@
-the is the test file 
+this is the script file
